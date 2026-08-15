@@ -1,6 +1,6 @@
 # Oii! 👋 Eu sou a Bruna!
 
-🎓 Estudante de **Engenharia da Computação**
+🎓 Estudante de **Engenharia da Computação**.
 
 💻 Atualmente aprofundando meus conhecimentos em **C# e MySQL**.
 
