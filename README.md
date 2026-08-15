@@ -16,12 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
 </div>
 
-## 📚 Atualmente estudando
-
-* C#
-* MySQL
-* Programação Orientada a Objetos
-
 ## 📫 Contato
 
 💼 LinkedIn: [https://www.linkedin.com/in/brunaffmoreira]
