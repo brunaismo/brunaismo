@@ -1,6 +1,7 @@
 # Oii! 👋 Eu sou a Bruna!
 
-Estudante de **Engenharia da Computação** na **Universidade Estadual do Maranhão**. Atualmente aprofundando meus conhecimentos em **C# e MySQL**.
+Estudante de **Engenharia da Computação** na **Universidade Estadual do Maranhão**.
+Atualmente aprofundando meus conhecimentos em **C# e MySQL**.
 
 ## 🚀 Tecnologias
 
