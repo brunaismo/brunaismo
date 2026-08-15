@@ -24,4 +24,4 @@
 
 ## 📫 Contato
 
-💼 LinkedIn: [linkedin.com/in/brunaffmoreira]
+💼 LinkedIn: [https://www.linkedin.com/in/brunaffmoreira]
