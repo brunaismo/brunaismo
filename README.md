@@ -1,4 +1,4 @@
-# Oii! 👋 Eu sou a Bruna!
+# Oi! 👋 Eu sou a Bruna!
 
 Estudante de **Engenharia da Computação** na **Universidade Estadual do Maranhão**.
 
