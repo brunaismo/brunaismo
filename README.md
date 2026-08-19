@@ -2,11 +2,11 @@
 
 ## 🇺🇸 About Me
 
-I'm a **Computer Engineering** student at **State University of Maranhão**, interested in software development and technology. Currently strengthening my skills in **C# and MySQL**
+I'm a **Computer Engineering** student at **State University of Maranhão**, interested in software development and technology. Currently strengthening my skills in **C# and MySQL**.
 
 ## 🇧🇷 Sobre Mim
 
-Sou estudante de **Engenharia da Computação** na **Universidade Estadual do Maranhão**, interessada em desenvolvimento de software e tecnologia. Atualmente, estou aprofundando meus conhecimentos em **C# e MySQL**
+Sou estudante de **Engenharia da Computação** na **Universidade Estadual do Maranhão**, interessada em desenvolvimento de software e tecnologia. Atualmente, estou aprofundando meus conhecimentos em **C# e MySQL**.
 
 
 ## 🛠️ Technologies & Tools
