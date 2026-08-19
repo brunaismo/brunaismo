@@ -9,7 +9,7 @@ I'm a **Computer Engineering** student at **State University of Maranhão**, int
 Sou estudante de **Engenharia da Computação** na **Universidade Estadual do Maranhão**, interessada em desenvolvimento de software e tecnologia. Atualmente, estou aprofundando meus conhecimentos em **C# e MySQL**.
 
 
-## 🛠️ Technologies & Tools
+## 💻 Technologies & Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" />
@@ -20,6 +20,6 @@ Sou estudante de **Engenharia da Computação** na **Universidade Estadual do Ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
 </div>
 
-## 📫 Contact
+## 📫 Connect
 
 💼 LinkedIn: [https://www.linkedin.com/in/brunaffmoreira]
