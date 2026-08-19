@@ -22,4 +22,4 @@ Sou estudante de **Engenharia da Computação** na **Universidade Estadual do Ma
 
 ## 📫 Connect
 
-💼 LinkedIn: [https://www.linkedin.com/in/brunaffmoreira]
+💼 [LinkedIn](https://www.linkedin.com/in/brunaffmoreira)
