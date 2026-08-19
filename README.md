@@ -1,15 +1,15 @@
-# Oi! 👋 Eu sou a Bruna!
-# Hi! 👋 I'm Bruna!
+# Hi, I'm Bruna! 👋
 
-Estudante de **Engenharia da Computação** na **Universidade Estadual do Maranhão**.
-**Computer Engineering** student at **State University of Maranhão**.
+## 🇺🇸 About Me
 
-Atualmente aprofundando meus conhecimentos em **C# e MySQL**.
-Currently developing and strengthening my proficiency in **C#** and **MySQL**.
+I'm a **Computer Engineering** student at **State University of Maranhão**, interested in software development and technology. Currently strengthening my skills in **C# and MySQL**
+
+## 🇧🇷 Sobre Mim
+
+Sou estudante de **Engenharia da Computação** na **Universidade Estadual do Maranhão**, interessada em desenvolvimento de software e tecnologia. Atualmente, estou aprofundando meus conhecimentos em **C# e MySQL**
 
 
-## 🚀 Tecnologias
-## 🚀 Technologies
+## 🛠️ Technologies & Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" />
@@ -20,7 +20,6 @@ Currently developing and strengthening my proficiency in **C#** and **MySQL**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
 </div>
 
-## 📫 Contato
 ## 📫 Contact
 
 💼 LinkedIn: [https://www.linkedin.com/in/brunaffmoreira]
