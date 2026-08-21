@@ -56,5 +56,5 @@ Atualmente, estou aprofundando meus conhecimentos em **C# e SQL Server**, enquan
 
 ## 📫 Connect
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/xxxx">LinkedIn</a>
+  💼 <a href="linkedin.com/in/brunaffmoreira">LinkedIn</a>
 </p>
